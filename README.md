@@ -1,2 +1,2 @@
 # Article-mangemant
-  simple blog posting web application.
+ simple blog posting web application.
